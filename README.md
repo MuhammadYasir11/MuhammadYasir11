@@ -7,11 +7,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadyasir11&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadyasir11" /> </p>
 
-- 🔭 I’m currently Studying on Laravel **Ecommerce**
+- 🔭 I’m currently Studying Laravel **E-commerce**
 
 - 🌱 I’m currently learning **Laravel Framework**
 
-- 👯 I’m looking to collaborate on **Ecommerce**
+- 👯 I’m looking to collaborate on **E-commerce**
 
 - 📫 How to reach me **my0934969@gmail.com**
 
@@ -20,7 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="www.linkedin.com/in/muhammad-yasir-90101b23b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad yasir" height="30" width="40" /></a>
-<a href="https://fb.com/muhammad yasir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muhammad yasir" height="30" width="40" /></a>
+<a href="https://www.facebook.com/yasir.kamal.395017/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muhammad yasir" height="30" width="40" /></a>
 <a href="https://instagram.com/muhammadyasir1395" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muhammadyasir1395" height="30" width="40" /></a>
 </p>
 
